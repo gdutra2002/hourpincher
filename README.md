@@ -2,7 +2,7 @@
 
 ## Description
 
-In keeping track of our lives, using a day planner is crucial to successfuly meeting our daily obligations.  By using an online schedule, we can share our plans and have a communitty schedule for people to be aware of events and tasks throughout the day, updated in real time. This schedule is independent from any subscribed callender, thus useful like a tear off day planner on a local machine.
+In keeping track of our lives, using a day planner is crucial to successfuly meeting our daily obligations.  By using an online schedule, we can share our plans and have a communitty schedule for people to be aware of events and tasks throughout the day, updated in real time. This schedule is independent from any subscribed callender, thus a useful tear off like day planner on a local machine.
 Enjoy!
 
 ## Installation
