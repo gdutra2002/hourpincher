@@ -60,12 +60,12 @@ body {
     
 /* /////// */
 
-    .notification {
+    .noticias {
       display: none;
       padding-bottom: 10px;
       color: black;
     }
     
-    .show {
+    .apptime {
       display: block;
     }
